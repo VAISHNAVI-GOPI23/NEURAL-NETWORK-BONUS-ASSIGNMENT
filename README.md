@@ -1,10 +1,8 @@
 # Bonus Assignment – CS Assignment Submission
 
 **Student Name:** Vaishnavi Gopi  
-**Student ID:** [Enter Your ID Here]  
-**Course:** [Enter Course Code]  
-**Instructor:** [Enter Instructor Name]  
-**Date:** [Enter Submission Date]
+**Student ID:** [700754518]  
+
 
 ---
 
@@ -15,7 +13,6 @@ This repository contains solutions for the Bonus Assignment that consists of two
 1. **Question Answering using Transformers**  
 2. **Digit-Class Controlled Image Generation with Conditional GAN (cGAN)**
 
-All code is well-commented and explained in this README. A 2–3 minute demo video is included in the BrightSpace submission.
 
 ---
 
@@ -144,9 +141,5 @@ It ensures the model learns the correct relationship between **input condition**
 
 ---
 
-## 🔗 Submission Instructions
 
-- ✅ **GitHub Link**: [Paste your GitHub repo link here]
 - ✅ **Video Link**: Uploaded to BrightSpace (2–3 mins demo & explanation)
-- ✅ Code is fully commented and functional
-- ✅ README includes student info and code walkthrough
