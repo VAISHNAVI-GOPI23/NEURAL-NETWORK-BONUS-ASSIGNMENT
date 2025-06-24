@@ -142,4 +142,4 @@ It ensures the model learns the correct relationship between **input condition**
 ---
 
 
-- ✅ **Video Link**: Uploaded to BrightSpace (2–3 mins demo & explanation)
+- ✅ **Video Link**: https://1drv.ms/v/c/f0028c921af54720/EfQ-wu9CnVBLhMaxgodp9qgB0l4mzZkMggnoyCbnS3Z-HA?e=O2SRoT
